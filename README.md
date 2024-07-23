@@ -1,1 +1,1 @@
-yes copy of ansible runner repo
+copy of ansible runner repo
